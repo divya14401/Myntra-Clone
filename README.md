@@ -9,6 +9,6 @@ The Myntra clone is a web application that emulates the popular online fashion s
 
 ## Screenshots
 
-(![myntra_img1](https://github.com/divya14401/Myntra-Clone/assets/109811278/c2932d36-0bf4-4b4b-963d-25486b206f2a)
-(![myntra_img2](https://github.com/divya14401/Myntra-Clone/assets/109811278/d0bd76d8-565e-4fec-bc4d-559de69dea0d)
+![myntra_img1](https://github.com/divya14401/Myntra-Clone/assets/109811278/c2932d36-0bf4-4b4b-963d-25486b206f2a)
+![myntra_img2](https://github.com/divya14401/Myntra-Clone/assets/109811278/d0bd76d8-565e-4fec-bc4d-559de69dea0d)
 
