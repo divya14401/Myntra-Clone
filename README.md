@@ -1,5 +1,7 @@
 # Myntra-Clone
 
+[Visit My Project](https://divya14401.github.io/Myntra-Clone/)
+
 The Myntra clone is a web application that emulates the popular online fashion shopping platform, Myntra. It has been created using HTML and CSS to replicate the user interface and design of Myntra's website. This project serves as a demonstration of front-end web development skills and aims to showcase the ability to create a visually appealing and responsive e-commerce platform.
 
 ## Technologies Used
